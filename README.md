@@ -1,7 +1,7 @@
 # Time-Series
 In this assignment, stock prise data will be predicted using ARMA and GARCH models and their performence will be measured.
 
-Two procedures will be preformed:
+Two procedures will be preformed:  $\frac{2}{8}$
 
 At very first, cleaning and processing will be performed on the data and log return column will be generated from stock price.Then we will split the data as train data and test data.Some descriptive ststistics will be performed on the train data to know some statistical features of the data.Then stationarity of log return will be checked on train data. Generally log return data are stationary.In case it is not, we will go for further transformation.
 
